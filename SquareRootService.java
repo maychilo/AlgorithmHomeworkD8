@@ -12,7 +12,7 @@ public class SquareRootService {
 									
 		return sqrt;
 
-		// TIME COMPLEXITY O(n)
+		// TIME COMPLEXITY O(n^(log (1/E))
 		
 		// The Babylonian square-root algorithm
 		// Improve the guess. Apply the formula x1 = (X0 + S / X0) / 2.
